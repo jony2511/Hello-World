@@ -1,7 +1,7 @@
 public class Student {
     private String name;
     private int age;
-
+     
     // Constructor for Student
     public Student(String name, int age) {
         this.name = name;
@@ -25,4 +25,5 @@ public class Student {
     public void setAge(int age) {
         this.age = age;
     }
+
 }
